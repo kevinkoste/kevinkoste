@@ -1,10 +1,15 @@
 ### Hi there 👋
 
+Hi! I'm a full-stack engineer and energy market analyst at Southern
+California Edison, where I build revenue optimization software for
+energy storage assets.
+
+On nights and weekends, I build consumer products & developer tools
+like Virgil and Blobber.
+
 <!--
 **kevinkoste/kevinkoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
