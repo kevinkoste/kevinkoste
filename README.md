@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Hi! I'm a full-stack engineer and energy market analyst at Southern
-California Edison, where I build revenue optimization software for
+Hi! I'm a full-stack engineer and energy market analyst at Southern<br/>
+California Edison, where I build revenue optimization software for<br/>
 energy storage assets.
 
-On nights and weekends, I build consumer products & developer tools
+On nights and weekends, I build consumer products & developer tools<br/>
 like Virgil and Blobber.
 
 <!--
